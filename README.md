@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I wrote several Emacs extensions you may find helpful, please consider [donating](https://www.paypal.me/tvolpiatto) if my work makes your life easier.  Thanks you.
+
 <!--
 **thierryvolpiatto/thierryvolpiatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
