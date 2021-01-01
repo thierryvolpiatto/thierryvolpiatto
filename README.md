@@ -2,7 +2,7 @@
 
 I wrote several Emacs extensions you may find helpful, please consider [donating](https://www.paypal.me/tvolpiatto) if my work makes your life easier.  Thanks you.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=thierryvolpiatto)
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=thierryvolpiatto) -->
 
 <!--
 **thierryvolpiatto/thierryvolpiatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
