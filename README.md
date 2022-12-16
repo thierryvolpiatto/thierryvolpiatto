@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I wrote several Emacs extensions you may find helpful, please consider [donating](https://www.paypal.me/tvolpiatto) if my work makes your life easier.  Thanks you.
+I wrote several Emacs extensions you may find helpful.
 
 NOTE: The Artic code vault badge point to nowhere because my old mail linked to many commits in Helm repo doesn't exists anymore.
 
