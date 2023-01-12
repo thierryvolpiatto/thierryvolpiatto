@@ -4,7 +4,6 @@ I wrote several Emacs extensions you may find helpful.
 
 NOTE: The Artic code vault badge point to nowhere because my old mail linked to many commits in Helm repo doesn't exists anymore.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=thierryvolpiatto)
 
 <!--
 **thierryvolpiatto/thierryvolpiatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
