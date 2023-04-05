@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I wrote several Emacs extensions you may find helpful. Among others I maintain Helm and Emacs-async packages.
-If you find my work useful you can donate on Patreon at https://www.patreon.com/user?u=86324343 .
+If you find my work useful you can donate on [Patreon](https://www.patreon.com/user?u=86324343).
 Thanks!
 
 NOTE: The Artic code vault badge point to nowhere because my old mail linked to many commits in Helm repo doesn't exists anymore.
