@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I wrote several Emacs extensions you may find helpful. Among others I maintain Helm and Emacs-async packages.
+I wrote several Emacs extensions you may find helpful. Among others I maintain [Helm](https://github.com/emacs-helm/helm) and [Emacs-async](https://github.com/jwiegley/emacs-async) packages.
 If you find my work useful you can donate on [Patreon](https://www.patreon.com/user?u=86324343) or [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/emacs-helm)
 Thanks!
 
